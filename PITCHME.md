@@ -33,7 +33,6 @@ Networking and Tea
 Conclusion
 @snapend
 
-- Take student questions
 - Present collaborative ideas
 - Conclude the workshop
 
