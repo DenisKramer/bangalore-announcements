@@ -24,7 +24,7 @@ Networking and Tea
 - Hope you already talked to lots of people
 - Time to preserve the sparks of your ideas
 
-@snap[south]
+@snap[south span-100]
 **Generate one slide to caputure the core of your collaborative idea**
 @snapend
 
@@ -37,6 +37,6 @@ Conclusion
 - Present collaborative ideas
 - Conclude the workshop
 
-@snap[south]
+@snap[south span-100]
 **Reconvene here at 5pm**
 @snapend
