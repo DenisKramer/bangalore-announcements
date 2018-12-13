@@ -20,7 +20,7 @@ Funders and Industry
 Networking and Tea
 @snapend
 
-- Now you have seen all the *exciting* work in India and the UK
+- Lots of *exciting* work in India and the UK
 - Hope you already talked to lots of people
 - Time to preserve the sparks of ideas for collaborations
 
@@ -31,8 +31,9 @@ Networking and Tea
 Conclusion
 @snapend
 
-Reconvene here at 5pm
+**Reconvene here at 5pm**
 
+- Take student questions
 - Present collaborative ideas
 - Conclude the workshop
 
