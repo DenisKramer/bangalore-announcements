@@ -26,7 +26,7 @@ Networking and Tea
 
 @snap[south]
 **Generate one slide to caputure the core of your collaborative idea**
-@endsnap
+@snapend
 
 ---?color=linear-gradient(to bottom, #ffffff, #dddddd)
 @snap[north-east]
@@ -39,4 +39,4 @@ Conclusion
 
 @snap[south]
 **Reconvene here at 5pm**
-@endsnap
+@snapend
