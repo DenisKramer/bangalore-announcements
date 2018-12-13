@@ -7,6 +7,8 @@ Print boarding passes
 
 ---?color=linear-gradient(to bottom, #ffffff, #dddddd)
 
+@title[Funders and Industry]
+
 ![BC](img/british-council-india.png)
 ![Newton](img/newton-bhabha-fund.png)
 ![RSC](img/Royal_Society_of_Chemistry.png)
