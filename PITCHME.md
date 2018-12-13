@@ -39,3 +39,8 @@ Conclusion
 @snap[south span-100]
 **Reconvene here at 5pm**
 @snapend
+
+---?color=linear-gradient(to bottom, #ffffff, #dddddd)
+
+![logo](template/img/logo.png)
+It's the **beginning**, not the end!
