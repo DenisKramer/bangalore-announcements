@@ -22,7 +22,7 @@ Networking and Tea
 
 - Lots of *exciting* work in India and the UK
 - Hope you already talked to lots of people
-- Time to preserve the sparks of ideas for collaborations
+- Time to preserve the sparks of your ideas
 
 **Generate one slide to caputure the core of your collaborative idea**
 
