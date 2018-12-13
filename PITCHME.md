@@ -7,7 +7,9 @@ Print boarding passes
 
 ---?color=linear-gradient(to bottom, #ffffff, #dddddd)
 
-@title[Funders and Industry]
+@snap[north-east]
+## Funders and Industry
+@snapend
 
 ![BC](img/british-council-india.png)
 ![Newton](img/newton-bhabha-fund.png)
