@@ -42,5 +42,4 @@ Conclusion
 
 ---?color=linear-gradient(to bottom, #ffffff, #dddddd)
 
-![logo](template/img/logo.png)
 It's the **beginning**, not the end!
