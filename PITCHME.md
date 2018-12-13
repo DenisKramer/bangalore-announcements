@@ -24,16 +24,19 @@ Networking and Tea
 - Hope you already talked to lots of people
 - Time to preserve the sparks of your ideas
 
+@snap[south]
 **Generate one slide to caputure the core of your collaborative idea**
+@endsnap
 
 ---?color=linear-gradient(to bottom, #ffffff, #dddddd)
 @snap[north-east]
 Conclusion
 @snapend
 
-**Reconvene here at 5pm**
-
 - Take student questions
 - Present collaborative ideas
 - Conclude the workshop
 
+@snap[south]
+**Reconvene here at 5pm**
+@endsnap
